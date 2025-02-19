@@ -4,7 +4,7 @@ Documentation
 
 The ``ExampleClass`` class
 *****************************
-.. autoclass:: example.ExampleClass
+.. autoclass:: example_class.ExampleClass
     :members:
     :undoc-members:
     :show-inheritance:

@@ -13,6 +13,7 @@ Welcome to sphinx-example's documentation!
    intro
    example_class
    examples
+   modules
 
 Indices and Tables
 ==================

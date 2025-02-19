@@ -4,4 +4,4 @@ src
 .. toctree::
    :maxdepth: 4
 
-   example
+   example_class
